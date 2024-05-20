@@ -11,4 +11,4 @@ Our code and will be released soon.
 
 ## Contact
 
-Hua Feng：danialqashqai99@gmail.com
+Danial Qashqai：danialqashqai99@gmail.com
