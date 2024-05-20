@@ -6,7 +6,7 @@ This is the official pytorch implementation of "CSFNet: A Cosine Similarity Fusi
 
 ## Notes
 
-Our code and will be released soon.
+Our code will be released soon.
 
 
 ## Contact
