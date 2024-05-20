@@ -1,6 +1,8 @@
-# CSFNet
-CSFNet: A Cosine Similarity Fusion Network for Real-Time RGB-X Semantic Segmentation of Driving Scenes
+<div align="center"> 
 
+## CSFNet: A Cosine Similarity Fusion Network for Real-Time RGB-X Semantic Segmentation of Driving Scenes
+
+</div>
 
 
 ## Notes
