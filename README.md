@@ -23,8 +23,8 @@ We offer the pre-trained weights on different RGBX datasets:
 ### Validation on ZJU (8 categories)
 | Architecture | Backbone | Params(M) | FPS | mIoU | Weight |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| CSFNet-1 | STDC1 | - | 108.5 | 90.85 | [Google Drive](https://drive.google.com/file/d/1yT1yAtqfDvQDjEO3ypvhmr8V3b-Tgh-u/view?usp=sharing) |
-| CSFNet-2 | STDC2 | - | 75 | 91.40 | [Google Drive](https://drive.google.com/file/d/1ycSKi80HhilbX2U7dQUF-a8vdrR_vFEV/view?usp=sharing) |
+| CSFNet-1 | STDC1 | 11.30 | 108.5 | 90.85 | [Google Drive](https://drive.google.com/file/d/1yT1yAtqfDvQDjEO3ypvhmr8V3b-Tgh-u/view?usp=sharing) |
+| CSFNet-2 | STDC2 | 19.36 | 75 | 91.40 | [Google Drive](https://drive.google.com/file/d/1ycSKi80HhilbX2U7dQUF-a8vdrR_vFEV/view?usp=sharing) |
 
 We measured the FPS using a single NVIDIA RTX 3090 GPU.
 
