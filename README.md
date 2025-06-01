@@ -14,7 +14,6 @@ We offer the pre-trained weights on different RGBX datasets:
 | CSFNet-1 | STDC1 | 11.31 | 106.1 | 74.73 | [Google Drive](https://drive.google.com/file/d/1yK1Fg7NX1zryVDQTbzIDVGnn8prxLsjY/view?usp=sharing) |
 | CSFNet-2 | STDC2 | 19.37 | 72.3 | 76.36 | [Google Drive](https://drive.google.com/file/d/1yQGGVAOUcSeWYz-vjoIIViIU_uV6uBpy/view?usp=sharing) |
 
-
 ### Validation on MFNet (9 categories)
 | Architecture | Backbone | Params(M) | FPS | mIoU | Weight |
 |:---:|:---:|:---:|:---:|:---:|:---:|
