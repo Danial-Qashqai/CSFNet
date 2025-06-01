@@ -55,7 +55,7 @@ You may also refer to their official websites for data preparation and further d
 - [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
 
 ### Pre-trained ImageNet Backbones
-The pre-trained weights for the STDC1 and STDC2 backbones are available at the following links:
+The pre-trained weights for the [STDC1](https://github.com/MichaelFan01/STDC-Seg) and [STDC2](https://github.com/MichaelFan01/STDC-Seg) backbones are available at the following links:
 - [STDC1](https://drive.google.com/file/d/1xR7Hg0CQcGyCFRgoF6vuhFNClE4ACpF_/view?usp=sharing)
 - [STDC2](https://drive.google.com/file/d/1xecVDI_8WvExrybZIzweC6urcllkFPQq/view?usp=sharing)
 
