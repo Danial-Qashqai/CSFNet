@@ -54,6 +54,12 @@ You may also refer to their official websites for data preparation and further d
 - [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
 - [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
 
+### Pre-trained ImageNet Backbones
+The pre-trained weights for the STDC1 and STDC2 backbones are available at the following links:
+- [STDC1](https://drive.google.com/file/d/1xR7Hg0CQcGyCFRgoF6vuhFNClE4ACpF_/view?usp=sharing)
+- [STDC2](https://drive.google.com/file/d/1xecVDI_8WvExrybZIzweC6urcllkFPQq/view?usp=sharing)
+
+
 ## Training
 
 * Train our CSFNet-2 on Cityscapes:
