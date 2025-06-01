@@ -43,8 +43,11 @@ Install pytorch, cuda and cudnn, then install other dependencies via:
 pip install -r requirements.txt
 ```
 ### Datasets
-
-
+For easy access, we have prepared the Cityscapes, MFNet, and ZJU datasets at the following links:
+- Cityscapes_Val [Google Drive](https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing) / [kaggle]([https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing](https://www.kaggle.com/datasets/danialqashqai/cityscapes-rgbd-val))
+- Cityscapes_train [Google Drive](https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing) / [kaggle]([https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing](https://www.kaggle.com/datasets/danialqashqai/cityscapes-rgbd-val))
+- MFNet
+- ZJU
 
 ## Notes
 
