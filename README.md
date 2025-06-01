@@ -28,20 +28,21 @@ We offer the pre-trained weights on different RGB-X (RGB-D/T/P) datasets:
 
 We measured the FPS using a single NVIDIA RTX 3090 GPU.
 
-
-## Installation
-### 1. Clone repository:
+## Usage
+### Installation
+1. Clone repository:
 Please navigate to the cloned directory.
 ```
 git clone https://github.com/Danial-Qashqai/CSFNet
 cd /path/to/this/repository
 ```
-### 2. Requirements:
+2. Requirements:
 we are using Python 3.10.14, Torch 2.3.1, torchvision 0.18.1 and CUDA 12.1.
 Install pytorch, cuda and cudnn, then install other dependencies via:
 ```shell
 pip install -r requirements.txt
 ```
+### Datasets
 
 
 
