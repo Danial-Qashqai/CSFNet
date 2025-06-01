@@ -59,23 +59,15 @@ Orgnize the Cityscapes dataset in the following structure:
 
 ```shell
 <datasets>
-|-- <DatasetName1>
-    |-- <RGBFolder>
-        |-- <name1>.<ImageFormat>
-        |-- <name2>.<ImageFormat>
-        ...
-    |-- <ModalXFolder>
-        |-- <name1>.<ModalXFormat>
-        |-- <name2>.<ModalXFormat>
-        ...
-    |-- <LabelFolder>
-        |-- <name1>.<LabelFormat>
-        |-- <name2>.<LabelFormat>
-        ...
-    |-- train.txt
-    |-- test.txt
-|-- <DatasetName2>
-|-- ...
+|-- <cityscapes>
+    |-- <train>
+        |-- <rgb>
+        |-- <depth_raw>
+        |-- <labels_19>
+    |-- <valid>
+        |-- <rgb>
+        |-- <depth_raw>
+        |-- <labels_19>
 ```
 
 ### Pre-trained ImageNet Backbones
