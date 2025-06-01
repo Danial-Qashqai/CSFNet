@@ -49,6 +49,11 @@ For easy access, we have prepared the Cityscapes, MFNet, and ZJU datasets at the
 - MFNet  [Google Drive](https://drive.google.com/file/d/1ytbhoiFpkRk_iMbL0qGGa_Q6feWlCibS/view?usp=sharing).
 - ZJU   [Google Drive](https://drive.google.com/file/d/1TugQ16fcxbmPBJD0EPMHHmjdK9IE4SAO/view?usp=sharing).
 
+You may also refer to their official websites for data preparation and further details:
+- [Cityscapes](https://www.cityscapes-dataset.com/)
+- [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
+- [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
+
 ## Notes
 
 Our code will be released soon.
