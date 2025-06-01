@@ -54,6 +54,21 @@ You may also refer to their official websites for data preparation and further d
 - [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
 - [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
 
+## Training
+Examples: 
+* Train our CSFNet-2 on Cityscapes:
+
+* Train our CSFNet-2 on MFNet:
+
+* Train our CSFNet-2 on ZJU:
+
+## Evaluation
+* Evaluate our CSFNet-2 on Cityscapes:
+
+* Evaluate our CSFNet-2 on MFNet:
+
+* Evaluate our CSFNet-2 on ZJU:
+
 ## Notes
 
 Our code will be released soon.
