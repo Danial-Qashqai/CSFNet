@@ -27,6 +27,8 @@ We offer the pre-trained weights on different RGBX datasets:
 | CSFNet-1 | STDC1 | - | 108.5 | 90.85 | [Google Drive](https://drive.google.com/file/d/1yT1yAtqfDvQDjEO3ypvhmr8V3b-Tgh-u/view?usp=sharing) |
 | CSFNet-2 | STDC2 | - | 75 | 91.40 | [Google Drive](https://drive.google.com/file/d/1ycSKi80HhilbX2U7dQUF-a8vdrR_vFEV/view?usp=sharing) |
 
+We timed the inference on a single NVIDIA RTX 3090
+
 ## Notes
 
 Our code will be released soon.
