@@ -55,6 +55,29 @@ You may also refer to their official websites for data preparation and further d
 - [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
 - [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
 
+Orgnize the Cityscapes dataset in the following structure:
+
+```shell
+<datasets>
+|-- <DatasetName1>
+    |-- <RGBFolder>
+        |-- <name1>.<ImageFormat>
+        |-- <name2>.<ImageFormat>
+        ...
+    |-- <ModalXFolder>
+        |-- <name1>.<ModalXFormat>
+        |-- <name2>.<ModalXFormat>
+        ...
+    |-- <LabelFolder>
+        |-- <name1>.<LabelFormat>
+        |-- <name2>.<LabelFormat>
+        ...
+    |-- train.txt
+    |-- test.txt
+|-- <DatasetName2>
+|-- ...
+```
+
 ### Pre-trained ImageNet Backbones
 The pre-trained weights for the [STDC1](https://github.com/MichaelFan01/STDC-Seg) and [STDC2](https://github.com/MichaelFan01/STDC-Seg) backbones are available at the following links:
 - [STDC1](https://drive.google.com/file/d/1xR7Hg0CQcGyCFRgoF6vuhFNClE4ACpF_/view?usp=sharing)
