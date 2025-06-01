@@ -44,7 +44,7 @@ pip install -r requirements.txt
 ```
 ### Datasets
 For easy access, we have prepared the Cityscapes, MFNet, and ZJU datasets at the following links:
-- Cityscapes_val [Google Drive](https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing) / [kaggle](https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing](https://www.kaggle.com/datasets/danialqashqai/cityscapes-rgbd-val)
+- Cityscapes_val [Google Drive](https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing) / [kaggle](https://drive.google.com/file/d/11oBaU3lXQHzVk3Gp2WIa14n4yk9mlhXz/view?usp=sharing](https://www.kaggle.com/datasets/danialqashqai/cityscapes-rgbd-val).
 - Cityscapes_train [kaggle](https://www.kaggle.com/datasets/danialqashqai/cityscapes-rgbd-train)
 - MFNet  [Google Drive](https://drive.google.com/file/d/1ytbhoiFpkRk_iMbL0qGGa_Q6feWlCibS/view?usp=sharing)
 - ZJU   [Google Drive](https://drive.google.com/file/d/1TugQ16fcxbmPBJD0EPMHHmjdK9IE4SAO/view?usp=sharing)
