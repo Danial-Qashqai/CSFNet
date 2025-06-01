@@ -38,6 +38,7 @@ cd /path/to/this/repository
 ```
 2. Requirements:
 we are using Python 3.10.14, Torch 2.3.1, torchvision 0.18.1 and CUDA 12.1.
+
 Install pytorch, cuda and cudnn, then install other dependencies via:
 ```shell
 pip install -r requirements.txt
