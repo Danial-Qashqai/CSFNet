@@ -58,7 +58,7 @@ You may also refer to their official websites for data preparation and further d
 Orgnize the Cityscapes dataset in the following structure:
 
 ```shell
-<datasets>
+<Dataset>
 |-- <cityscapes>
     |-- <train>
         |-- <rgb>
