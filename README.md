@@ -55,7 +55,7 @@ You may also refer to their official websites for data preparation and further d
 - [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
 
 ## Training
-Examples: 
+
 * Train our CSFNet-2 on Cityscapes:
 
 * Train our CSFNet-2 on MFNet:
