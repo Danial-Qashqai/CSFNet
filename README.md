@@ -49,6 +49,7 @@ For easy access, we have prepared the Cityscapes, MFNet, and ZJU datasets at the
 - Cityscapes_train [kaggle](https://www.kaggle.com/datasets/danialqashqai/cityscapes-rgbd-train).
 - MFNet  [Google Drive](https://drive.google.com/file/d/1ytbhoiFpkRk_iMbL0qGGa_Q6feWlCibS/view?usp=sharing).
 - ZJU   [Google Drive](https://drive.google.com/file/d/1TugQ16fcxbmPBJD0EPMHHmjdK9IE4SAO/view?usp=sharing).
+- FMB   [Google Drive](https://drive.google.com/drive/folders/1T_jVi80tjgyHTQDpn-TjfySyW4CK1LlF?usp=sharing).
 
 You may also refer to their official websites for data preparation and further details:
 - [Cityscapes](https://www.cityscapes-dataset.com/)
