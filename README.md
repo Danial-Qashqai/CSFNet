@@ -55,6 +55,7 @@ You may also refer to their official websites for data preparation and further d
 - [Cityscapes](https://www.cityscapes-dataset.com/)
 - [MFNet](https://www.mi.t.u-tokyo.ac.jp/static/projects/mil_multispectral/)
 - [ZJU](https://huggingface.co/datasets/Zhonghua/ZJU_RGB_P/tree/main)
+- [FMB](https://github.com/JinyuanLiu-CV/SegMiF?tab=readme-ov-file)
 
 Orgnize the Cityscapes dataset in the following structure:
 
