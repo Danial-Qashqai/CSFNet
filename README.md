@@ -26,6 +26,12 @@ We offer the pre-trained weights on different RGB-X (RGB-D/T/P) datasets:
 | CSFNet-1 | STDC1 | 11.30 | 108.5 | 90.85 | [Google Drive](https://drive.google.com/file/d/1yT1yAtqfDvQDjEO3ypvhmr8V3b-Tgh-u/view?usp=sharing) |
 | CSFNet-2 | STDC2 | 19.36 | 75 | 91.40 | [Google Drive](https://drive.google.com/file/d/1ycSKi80HhilbX2U7dQUF-a8vdrR_vFEV/view?usp=sharing) |
 
+### Validation on FMB (14 categories)
+| Architecture | Backbone | Params(M) | FPS | mIoU | Weight |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| CSFNet-1 | STDC1 | 11.30 | 106.2 | -- | 
+| CSFNet-2 | STDC2 | 19.36 | 72.5 | 62.73 |
+
 We measured the FPS using a single NVIDIA RTX 3090 GPU.
 
 ## Usage
@@ -86,6 +92,8 @@ The pre-trained weights for the [STDC1](https://github.com/MichaelFan01/STDC-Seg
 
 * Train our CSFNet-2 on ZJU:
 
+* Train our CSFNet-2 on FMB:
+
 ## Evaluation
 * Evaluate our CSFNet-2 on Cityscapes:
 
@@ -93,6 +101,8 @@ The pre-trained weights for the [STDC1](https://github.com/MichaelFan01/STDC-Seg
 
 * Evaluate our CSFNet-2 on ZJU:
 
+* Evaluate our CSFNet-2 on FMB:
+* 
 ## Notes
 
 Our code will be released soon.
