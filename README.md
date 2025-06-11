@@ -5,7 +5,7 @@ This is the official pytorch implementation of "CSFNet: A Cosine Similarity Fusi
 ![Network.png](https://github.com/Danial-Qashqai/CSFNet/blob/main/figures/Network.png)
 
 
-## Result
+## Results
 We offer the pre-trained weights on different RGB-X (RGB-D/T/P) datasets:
 
 ### Validation on Cityscapes (19 categories) 
