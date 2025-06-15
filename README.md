@@ -29,7 +29,7 @@ We offer the pre-trained weights on different RGB-X (RGB-D/T/P) datasets:
 ### Validation on FMB (14 categories)
 | Architecture | Backbone | Params(M) | FPS | mIoU | Weight |
 |:---:|:---:|:---:|:---:|:---:|:---:|
-| CSFNet-1 | STDC1 | 11.30 | 106.2 | -- | [Google Drive]() |
+| CSFNet-1 | STDC1 | 11.30 | 106.2 | 60.61 | [Google Drive](https://drive.google.com/file/d/1QzrOoYmB4C9pAbFuKhJ-YsRx77s0drtx/view?usp=sharing) |
 | CSFNet-2 | STDC2 | 19.36 | 72.5 | 62.73 | [Google Drive](https://drive.google.com/file/d/1M4TQb19LmH7A0pM68RluQH7gf5_4aFoL/view?usp=sharing) |
  
 We measured the FPS using a single NVIDIA RTX 3090 GPU.
