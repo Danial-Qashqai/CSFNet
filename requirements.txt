@@ -1,0 +1,4 @@
+opencv-python>=4.9.0
+tqdm>=4.40.0
+numpy==1.26.4
+scikit-learn==1.2.2
