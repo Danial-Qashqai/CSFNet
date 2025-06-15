@@ -106,10 +106,61 @@ python train.py \
 ```
 
 * Train our CSFNet-2 on MFNet:
+```
+python train.py \
+    --batch_size 8 \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "MFNet" \
+    --num_classes 9 \
+    --epochs 600 \
+    --lr 0.01  \
+    --pretrained True \
+    --backbone_path "Backbone/STDCNet_2.tar"  \
+    --crop_H 480 \
+    --crop_W 640 \
+    --img_train_dir "./MFNet/ir_seg_dataset" \
+    --img_test_dir "./MFNet/ir_seg_dataset" 
+```
 
 * Train our CSFNet-2 on ZJU:
+```
+python train.py \
+    --batch_size 8 \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "ZJU" \
+    --num_classes 8 \
+    --epochs 600 \
+    --lr 0.01  \
+    --pretrained True \
+    --backbone_path "Backbone/STDCNet_2.tar"  \
+    --crop_H 512 \
+    --crop_W 612 \
+    --img_train_dir "./ZJU/train" \
+    --img_test_dir "./ZJU/val" 
+```
 
 * Train our CSFNet-2 on FMB:
+```
+python train.py \
+    --batch_size 8 \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "FMB" \
+    --num_classes 14 \
+    --epochs 600 \
+    --lr 0.01  \
+    --pretrained True \
+    --backbone_path "Backbone/STDCNet_2.tar"  \
+    --crop_H 600 \
+    --crop_W 800 \
+    --img_train_dir "./FMB/train" \
+    --img_test_dir "./FMB/test" 
+```
 
 ## Evaluation
 * Evaluate our CSFNet-2 on Cityscapes:
