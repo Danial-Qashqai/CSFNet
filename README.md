@@ -87,6 +87,23 @@ The pre-trained weights for the [STDC1](https://github.com/MichaelFan01/STDC-Seg
 ## Training
 
 * Train our CSFNet-2 on Cityscapes:
+```
+python train.py \
+    --batch_size 16 \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "Cityscapes" \
+    --num_classes 19 \
+    --epochs 300 \
+    --lr 0.02  \
+    --pretrained True \
+    --backbone_path "Backbone/STDCNet_2.tar"  \
+    --crop_H 512 \
+    --crop_W 1024 \
+    --img_train_dir "./cityscapes/train" \
+    --img_test_dir "./cityscapes/valid" 
+```
 
 * Train our CSFNet-2 on MFNet:
 
