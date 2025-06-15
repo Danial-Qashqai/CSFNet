@@ -164,12 +164,52 @@ python train.py \
 
 ## Evaluation
 * Evaluate our CSFNet-2 on Cityscapes:
+```
+python eval.py \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "Cityscapes" \
+    --num_classes 19 \
+    --img_test_dir "./cityscapes/valid"  \
+    --weight_path "./best_CSFNet_2_city.pth"
+```
 
 * Evaluate our CSFNet-2 on MFNet:
+```
+python eval.py \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "MFNet" \
+    --num_classes 9 \
+    --img_test_dir "./MFNet/ir_seg_dataset"  \
+    --weight_path "./best_CSFNet_2_MFNet.pth"
+```
 
 * Evaluate our CSFNet-2 on ZJU:
+```
+python eval.py \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "ZJU" \
+    --num_classes 8 \
+    --img_test_dir "/ZJU/val"  \
+    --weight_path "./best_CSFNet_2_ZJU.pth"
+```
 
 * Evaluate our CSFNet-2 on FMB:
+```
+python eval.py \
+    --batch_size_valid 8 \
+    --num_gpus 1 \
+    --network "CSFNet-2" \
+    --dataset "FMB" \
+    --num_classes 14 \
+    --img_test_dir "/FMB/test"  \
+    --weight_path "./best_CSFNet_2_FMB.pth"
+```
   
 ## Notes
 
