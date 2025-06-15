@@ -210,10 +210,6 @@ python eval.py \
     --img_test_dir "/FMB/test"  \
     --weight_path "./best_CSFNet_2_FMB.pth"
 ```
-  
-## Notes
-
-Our code will be released soon.
 
 
 ## Contact
