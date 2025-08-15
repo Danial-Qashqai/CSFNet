@@ -13,8 +13,7 @@ We offer the pre-trained weights on different RGB-X (RGB-D/T/P) datasets:
 |:---:|:---:|:---:|:---:|:---:|:---:|:---:|
 | CSFNet-1 | STDC1 | 11.31 | 106.1 | 74.73 | [Google Drive](https://drive.google.com/file/d/1yK1Fg7NX1zryVDQTbzIDVGnn8prxLsjY/view?usp=sharing) | log |
 | CSFNet-2 | STDC2 | 19.37 | 72.3 | 76.36 | [Google Drive](https://drive.google.com/file/d/1yQGGVAOUcSeWYz-vjoIIViIU_uV6uBpy/view?usp=sharing) | log |
-
-
+&nbsp;
 ![Fig4.png](https://github.com/Danial-Qashqai/CSFNet/blob/main/figures/Figure_4.png)
 *Visual results of CSFNet on Cityscapes val set (half resolution). From left to right: RGB input, depth input, prediction, and ground truth.*
 
