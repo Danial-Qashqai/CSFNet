@@ -1,0 +1,2496 @@
+epoch: 1/600
+train loss: 1.03667
+mIoU : 24.19
+test loss: 0.668601
+########################################
+BEST RESULT
+########################################
+epoch: 2/600
+train loss: 0.589965
+mIoU : 29.57
+test loss: 0.479072
+########################################
+BEST RESULT
+########################################
+epoch: 3/600
+train loss: 0.471353
+mIoU : 31.54
+test loss: 0.431848
+########################################
+BEST RESULT
+########################################
+epoch: 4/600
+train loss: 0.425856
+mIoU : 32.44
+test loss: 0.395624
+########################################
+BEST RESULT
+########################################
+epoch: 5/600
+train loss: 0.390977
+mIoU : 34.25
+test loss: 0.445387
+########################################
+BEST RESULT
+########################################
+epoch: 6/600
+train loss: 0.35036
+mIoU : 38.29
+test loss: 0.374288
+########################################
+BEST RESULT
+########################################
+epoch: 7/600
+train loss: 0.345419
+mIoU : 39.24
+test loss: 0.331545
+########################################
+BEST RESULT
+########################################
+epoch: 8/600
+train loss: 0.343571
+mIoU : 41.7
+test loss: 0.319953
+########################################
+BEST RESULT
+########################################
+epoch: 9/600
+train loss: 0.309297
+mIoU : 43.1
+test loss: 0.308265
+########################################
+BEST RESULT
+########################################
+epoch: 10/600
+train loss: 0.276872
+mIoU : 45.17
+test loss: 0.289839
+########################################
+BEST RESULT
+########################################
+epoch: 11/600
+train loss: 0.274955
+mIoU : 44.15
+test loss: 0.290071
+epoch: 12/600
+train loss: 0.272595
+mIoU : 44.1
+test loss: 0.307144
+epoch: 13/600
+train loss: 0.273068
+mIoU : 43.51
+test loss: 0.326188
+epoch: 14/600
+train loss: 0.255961
+mIoU : 45.07
+test loss: 0.298962
+epoch: 15/600
+train loss: 0.239099
+mIoU : 43.79
+test loss: 0.297657
+epoch: 16/600
+train loss: 0.236133
+mIoU : 45.41
+test loss: 0.289946
+########################################
+BEST RESULT
+########################################
+epoch: 17/600
+train loss: 0.229254
+mIoU : 46.8
+test loss: 0.283408
+########################################
+BEST RESULT
+########################################
+epoch: 18/600
+train loss: 0.229183
+mIoU : 46.75
+test loss: 0.267705
+epoch: 19/600
+train loss: 0.229931
+mIoU : 44.66
+test loss: 0.29241
+epoch: 20/600
+train loss: 0.230858
+mIoU : 46.35
+test loss: 0.27269
+epoch: 21/600
+train loss: 0.22481
+mIoU : 45.25
+test loss: 0.282814
+epoch: 22/600
+train loss: 0.214437
+mIoU : 46.82
+test loss: 0.268093
+########################################
+BEST RESULT
+########################################
+epoch: 23/600
+train loss: 0.214421
+mIoU : 47.83
+test loss: 0.25414
+########################################
+BEST RESULT
+########################################
+epoch: 24/600
+train loss: 0.208495
+mIoU : 46.92
+test loss: 0.263347
+epoch: 25/600
+train loss: 0.203944
+mIoU : 47.31
+test loss: 0.252373
+epoch: 26/600
+train loss: 0.19975
+mIoU : 47.45
+test loss: 0.263521
+epoch: 27/600
+train loss: 0.193646
+mIoU : 49.36
+test loss: 0.263667
+########################################
+BEST RESULT
+########################################
+epoch: 28/600
+train loss: 0.190217
+mIoU : 45.61
+test loss: 0.287314
+epoch: 29/600
+train loss: 0.193551
+mIoU : 48.62
+test loss: 0.2539
+epoch: 30/600
+train loss: 0.196276
+mIoU : 48.87
+test loss: 0.265667
+epoch: 31/600
+train loss: 0.184697
+mIoU : 49.12
+test loss: 0.260619
+epoch: 32/600
+train loss: 0.1793
+mIoU : 48.82
+test loss: 0.260831
+epoch: 33/600
+train loss: 0.210593
+mIoU : 47.58
+test loss: 0.258181
+epoch: 34/600
+train loss: 0.204105
+mIoU : 48.29
+test loss: 0.259965
+epoch: 35/600
+train loss: 0.195897
+mIoU : 48.59
+test loss: 0.245954
+epoch: 36/600
+train loss: 0.18603
+mIoU : 49.41
+test loss: 0.267863
+########################################
+BEST RESULT
+########################################
+epoch: 37/600
+train loss: 0.330026
+mIoU : 48.14
+test loss: 0.27615
+epoch: 38/600
+train loss: 0.239286
+mIoU : 48.02
+test loss: 0.271505
+epoch: 39/600
+train loss: 0.223429
+mIoU : 45.37
+test loss: 0.341961
+epoch: 40/600
+train loss: 0.202296
+mIoU : 49.37
+test loss: 0.260346
+epoch: 41/600
+train loss: 0.187893
+mIoU : 47.33
+test loss: 0.271075
+epoch: 42/600
+train loss: 0.186103
+mIoU : 48.37
+test loss: 0.266365
+epoch: 43/600
+train loss: 0.194051
+mIoU : 48.43
+test loss: 0.266256
+epoch: 44/600
+train loss: 0.197991
+mIoU : 49.11
+test loss: 0.263776
+epoch: 45/600
+train loss: 0.17772
+mIoU : 52.1
+test loss: 0.24486
+########################################
+BEST RESULT
+########################################
+epoch: 46/600
+train loss: 0.174262
+mIoU : 50.27
+test loss: 0.254193
+epoch: 47/600
+train loss: 0.200999
+mIoU : 49.22
+test loss: 0.272007
+epoch: 48/600
+train loss: 0.181597
+mIoU : 49.76
+test loss: 0.263566
+epoch: 49/600
+train loss: 0.182094
+mIoU : 49.78
+test loss: 0.263176
+epoch: 50/600
+train loss: 0.173715
+mIoU : 52.03
+test loss: 0.240161
+epoch: 51/600
+train loss: 0.164435
+mIoU : 48.64
+test loss: 0.256633
+epoch: 52/600
+train loss: 0.160555
+mIoU : 52.31
+test loss: 0.240241
+########################################
+BEST RESULT
+########################################
+epoch: 53/600
+train loss: 0.162181
+mIoU : 51.23
+test loss: 0.247294
+epoch: 54/600
+train loss: 0.154425
+mIoU : 54.44
+test loss: 0.227863
+########################################
+BEST RESULT
+########################################
+epoch: 55/600
+train loss: 0.15759
+mIoU : 51.31
+test loss: 0.247193
+epoch: 56/600
+train loss: 0.158995
+mIoU : 51.73
+test loss: 0.250492
+epoch: 57/600
+train loss: 0.156569
+mIoU : 50.69
+test loss: 0.255875
+epoch: 58/600
+train loss: 0.163747
+mIoU : 54.94
+test loss: 0.236815
+########################################
+BEST RESULT
+########################################
+epoch: 59/600
+train loss: 0.15571
+mIoU : 51.91
+test loss: 0.25023
+epoch: 60/600
+train loss: 0.16446
+mIoU : 51.74
+test loss: 0.265377
+epoch: 61/600
+train loss: 0.164897
+mIoU : 54.26
+test loss: 0.247029
+epoch: 62/600
+train loss: 0.161147
+mIoU : 53.47
+test loss: 0.24768
+epoch: 63/600
+train loss: 0.153325
+mIoU : 53.32
+test loss: 0.25062
+epoch: 64/600
+train loss: 0.150527
+mIoU : 53.64
+test loss: 0.242269
+epoch: 65/600
+train loss: 0.154484
+mIoU : 50.47
+test loss: 0.26611
+epoch: 66/600
+train loss: 0.160315
+mIoU : 53.49
+test loss: 0.247389
+epoch: 67/600
+train loss: 0.15653
+mIoU : 52.53
+test loss: 0.261876
+epoch: 68/600
+train loss: 0.153869
+mIoU : 48.94
+test loss: 0.293855
+epoch: 69/600
+train loss: 0.147543
+mIoU : 53.31
+test loss: 0.245332
+epoch: 70/600
+train loss: 0.148504
+mIoU : 52.15
+test loss: 0.26195
+epoch: 71/600
+train loss: 0.146906
+mIoU : 53.89
+test loss: 0.24167
+epoch: 72/600
+train loss: 0.144275
+mIoU : 54.97
+test loss: 0.256404
+########################################
+BEST RESULT
+########################################
+epoch: 73/600
+train loss: 0.147454
+mIoU : 51.83
+test loss: 0.283428
+epoch: 74/600
+train loss: 0.153554
+mIoU : 51.05
+test loss: 0.261361
+epoch: 75/600
+train loss: 0.154428
+mIoU : 52.59
+test loss: 0.247998
+epoch: 76/600
+train loss: 0.145931
+mIoU : 53.86
+test loss: 0.250589
+epoch: 77/600
+train loss: 0.142862
+mIoU : 52.66
+test loss: 0.251806
+epoch: 78/600
+train loss: 0.144342
+mIoU : 52.9
+test loss: 0.25639
+epoch: 79/600
+train loss: 0.138414
+mIoU : 56.78
+test loss: 0.239727
+########################################
+BEST RESULT
+########################################
+epoch: 80/600
+train loss: 0.137885
+mIoU : 55.35
+test loss: 0.238408
+epoch: 81/600
+train loss: 0.1394
+mIoU : 54.15
+test loss: 0.252587
+epoch: 82/600
+train loss: 0.13534
+mIoU : 56.15
+test loss: 0.240939
+epoch: 83/600
+train loss: 0.148902
+mIoU : 55.05
+test loss: 0.245113
+epoch: 84/600
+train loss: 0.142516
+mIoU : 54.21
+test loss: 0.251759
+epoch: 85/600
+train loss: 0.137611
+mIoU : 56.72
+test loss: 0.246376
+epoch: 86/600
+train loss: 0.146939
+mIoU : 55.71
+test loss: 0.246131
+epoch: 87/600
+train loss: 0.142125
+mIoU : 54.69
+test loss: 0.257534
+epoch: 88/600
+train loss: 0.139511
+mIoU : 49.65
+test loss: 0.296625
+epoch: 89/600
+train loss: 0.152713
+mIoU : 51.65
+test loss: 0.268087
+epoch: 90/600
+train loss: 0.187314
+mIoU : 52.22
+test loss: 0.264567
+epoch: 91/600
+train loss: 0.151506
+mIoU : 54.68
+test loss: 0.240674
+epoch: 92/600
+train loss: 0.148357
+mIoU : 54.11
+test loss: 0.258098
+epoch: 93/600
+train loss: 0.136193
+mIoU : 55.34
+test loss: 0.240926
+epoch: 94/600
+train loss: 0.140299
+mIoU : 56.16
+test loss: 0.242405
+epoch: 95/600
+train loss: 0.140266
+mIoU : 53.65
+test loss: 0.244532
+epoch: 96/600
+train loss: 0.13259
+mIoU : 54.39
+test loss: 0.256514
+epoch: 97/600
+train loss: 0.132457
+mIoU : 55.9
+test loss: 0.245972
+epoch: 98/600
+train loss: 0.133475
+mIoU : 55.62
+test loss: 0.234748
+epoch: 99/600
+train loss: 0.132733
+mIoU : 57.63
+test loss: 0.234797
+########################################
+BEST RESULT
+########################################
+epoch: 100/600
+train loss: 0.13259
+mIoU : 57.11
+test loss: 0.244385
+epoch: 101/600
+train loss: 0.128599
+mIoU : 56.73
+test loss: 0.245578
+epoch: 102/600
+train loss: 0.152444
+mIoU : 50.03
+test loss: 0.336584
+epoch: 103/600
+train loss: 0.171789
+mIoU : 53.11
+test loss: 0.261656
+epoch: 104/600
+train loss: 0.152037
+mIoU : 49.41
+test loss: 0.333553
+epoch: 105/600
+train loss: 0.141869
+mIoU : 53.64
+test loss: 0.260782
+epoch: 106/600
+train loss: 0.136676
+mIoU : 55.88
+test loss: 0.245693
+epoch: 107/600
+train loss: 0.13415
+mIoU : 55.68
+test loss: 0.25306
+epoch: 108/600
+train loss: 0.127081
+mIoU : 53.72
+test loss: 0.265289
+epoch: 109/600
+train loss: 0.131465
+mIoU : 52.42
+test loss: 0.275113
+epoch: 110/600
+train loss: 0.139233
+mIoU : 53.15
+test loss: 0.258634
+epoch: 111/600
+train loss: 0.136941
+mIoU : 52.66
+test loss: 0.277564
+epoch: 112/600
+train loss: 0.133512
+mIoU : 54.57
+test loss: 0.263396
+epoch: 113/600
+train loss: 0.130594
+mIoU : 57.05
+test loss: 0.248616
+epoch: 114/600
+train loss: 0.126397
+mIoU : 55.03
+test loss: 0.257489
+epoch: 115/600
+train loss: 0.13653
+mIoU : 54.32
+test loss: 0.26511
+epoch: 116/600
+train loss: 0.12833
+mIoU : 58.47
+test loss: 0.238344
+########################################
+BEST RESULT
+########################################
+epoch: 117/600
+train loss: 0.123752
+mIoU : 60.01
+test loss: 0.232479
+########################################
+BEST RESULT
+########################################
+epoch: 118/600
+train loss: 0.128061
+mIoU : 58.4
+test loss: 0.227544
+epoch: 119/600
+train loss: 0.127413
+mIoU : 56.34
+test loss: 0.246438
+epoch: 120/600
+train loss: 0.125013
+mIoU : 55.96
+test loss: 0.251005
+epoch: 121/600
+train loss: 0.125525
+mIoU : 56.56
+test loss: 0.240059
+epoch: 122/600
+train loss: 0.122618
+mIoU : 57.39
+test loss: 0.239014
+epoch: 123/600
+train loss: 0.120238
+mIoU : 56.56
+test loss: 0.241908
+epoch: 124/600
+train loss: 0.12705
+mIoU : 57.17
+test loss: 0.236284
+epoch: 125/600
+train loss: 0.129626
+mIoU : 57.55
+test loss: 0.254001
+epoch: 126/600
+train loss: 0.123657
+mIoU : 58.83
+test loss: 0.242965
+epoch: 127/600
+train loss: 0.123545
+mIoU : 55.76
+test loss: 0.259833
+epoch: 128/600
+train loss: 0.121576
+mIoU : 56.35
+test loss: 0.262756
+epoch: 129/600
+train loss: 0.129384
+mIoU : 53.13
+test loss: 0.268876
+epoch: 130/600
+train loss: 0.134581
+mIoU : 56.32
+test loss: 0.257472
+epoch: 131/600
+train loss: 0.131964
+mIoU : 53.94
+test loss: 0.270447
+epoch: 132/600
+train loss: 0.196748
+mIoU : 49.23
+test loss: 0.292205
+epoch: 133/600
+train loss: 0.203465
+mIoU : 52.46
+test loss: 0.285209
+epoch: 134/600
+train loss: 0.162659
+mIoU : 51.66
+test loss: 0.285742
+epoch: 135/600
+train loss: 0.159611
+mIoU : 51.35
+test loss: 0.274919
+epoch: 136/600
+train loss: 0.140566
+mIoU : 52.18
+test loss: 0.334404
+epoch: 137/600
+train loss: 0.136299
+mIoU : 53.95
+test loss: 0.2801
+epoch: 138/600
+train loss: 0.153143
+mIoU : 51.8
+test loss: 0.26456
+epoch: 139/600
+train loss: 0.137133
+mIoU : 55.13
+test loss: 0.265564
+epoch: 140/600
+train loss: 0.139012
+mIoU : 54.01
+test loss: 0.276454
+epoch: 141/600
+train loss: 0.150494
+mIoU : 54.43
+test loss: 0.256007
+epoch: 142/600
+train loss: 0.155689
+mIoU : 52.48
+test loss: 0.265139
+epoch: 143/600
+train loss: 0.142451
+mIoU : 48.77
+test loss: 0.348029
+epoch: 144/600
+train loss: 0.148694
+mIoU : 54.77
+test loss: 0.271859
+epoch: 145/600
+train loss: 0.131912
+mIoU : 54.67
+test loss: 0.25815
+epoch: 146/600
+train loss: 0.178176
+mIoU : 49.97
+test loss: 0.28413
+epoch: 147/600
+train loss: 0.134952
+mIoU : 54.78
+test loss: 0.249221
+epoch: 148/600
+train loss: 0.147017
+mIoU : 52.22
+test loss: 0.268663
+epoch: 149/600
+train loss: 0.136017
+mIoU : 52.76
+test loss: 0.330815
+epoch: 150/600
+train loss: 0.146
+mIoU : 53.37
+test loss: 0.272497
+epoch: 151/600
+train loss: 0.132636
+mIoU : 54.72
+test loss: 0.262154
+epoch: 152/600
+train loss: 0.12769
+mIoU : 56.57
+test loss: 0.245535
+epoch: 153/600
+train loss: 0.131806
+mIoU : 55.41
+test loss: 0.255322
+epoch: 154/600
+train loss: 0.126964
+mIoU : 55.14
+test loss: 0.243781
+epoch: 155/600
+train loss: 0.125484
+mIoU : 54.06
+test loss: 0.283765
+epoch: 156/600
+train loss: 0.140567
+mIoU : 57.08
+test loss: 0.242799
+epoch: 157/600
+train loss: 0.126569
+mIoU : 54.6
+test loss: 0.251999
+epoch: 158/600
+train loss: 0.126707
+mIoU : 54.8
+test loss: 0.25185
+epoch: 159/600
+train loss: 0.119457
+mIoU : 57.88
+test loss: 0.241635
+epoch: 160/600
+train loss: 0.118334
+mIoU : 59.16
+test loss: 0.240353
+epoch: 161/600
+train loss: 0.123362
+mIoU : 55.55
+test loss: 0.255493
+epoch: 162/600
+train loss: 0.141029
+mIoU : 53.18
+test loss: 0.264207
+epoch: 163/600
+train loss: 0.160247
+mIoU : 53.51
+test loss: 0.28412
+epoch: 164/600
+train loss: 0.148995
+mIoU : 53.85
+test loss: 0.270492
+epoch: 165/600
+train loss: 0.131945
+mIoU : 56.49
+test loss: 0.281895
+epoch: 166/600
+train loss: 0.124689
+mIoU : 58.32
+test loss: 0.232202
+epoch: 167/600
+train loss: 0.124008
+mIoU : 55.5
+test loss: 0.247281
+epoch: 168/600
+train loss: 0.122161
+mIoU : 55.68
+test loss: 0.255843
+epoch: 169/600
+train loss: 0.121752
+mIoU : 57.9
+test loss: 0.229181
+epoch: 170/600
+train loss: 0.126602
+mIoU : 54.98
+test loss: 0.248988
+epoch: 171/600
+train loss: 0.124712
+mIoU : 55.77
+test loss: 0.240019
+epoch: 172/600
+train loss: 0.122351
+mIoU : 55.56
+test loss: 0.234512
+epoch: 173/600
+train loss: 0.118273
+mIoU : 56.47
+test loss: 0.237867
+epoch: 174/600
+train loss: 0.118555
+mIoU : 56.05
+test loss: 0.241934
+epoch: 175/600
+train loss: 0.117581
+mIoU : 56.96
+test loss: 0.238346
+epoch: 176/600
+train loss: 0.129069
+mIoU : 54.83
+test loss: 0.260618
+epoch: 177/600
+train loss: 0.1829
+mIoU : 54.93
+test loss: 0.272787
+epoch: 178/600
+train loss: 0.149558
+mIoU : 53.81
+test loss: 0.269535
+epoch: 179/600
+train loss: 0.212812
+mIoU : 51.2
+test loss: 0.282085
+epoch: 180/600
+train loss: 0.152429
+mIoU : 55.34
+test loss: 0.242377
+epoch: 181/600
+train loss: 0.133118
+mIoU : 55.08
+test loss: 0.246187
+epoch: 182/600
+train loss: 0.126507
+mIoU : 53.53
+test loss: 0.292028
+epoch: 183/600
+train loss: 0.126021
+mIoU : 57.71
+test loss: 0.260332
+epoch: 184/600
+train loss: 0.124937
+mIoU : 54.9
+test loss: 0.269308
+epoch: 185/600
+train loss: 0.137581
+mIoU : 56.06
+test loss: 0.264563
+epoch: 186/600
+train loss: 0.139825
+mIoU : 55.18
+test loss: 0.249762
+epoch: 187/600
+train loss: 0.128201
+mIoU : 58.18
+test loss: 0.242831
+epoch: 188/600
+train loss: 0.132897
+mIoU : 56.7
+test loss: 0.275953
+epoch: 189/600
+train loss: 0.130684
+mIoU : 52.48
+test loss: 0.274184
+epoch: 190/600
+train loss: 0.129533
+mIoU : 54.74
+test loss: 0.271662
+epoch: 191/600
+train loss: 0.128098
+mIoU : 49.81
+test loss: 0.371023
+epoch: 192/600
+train loss: 0.160183
+mIoU : 50.93
+test loss: 0.297208
+epoch: 193/600
+train loss: 0.131726
+mIoU : 57.14
+test loss: 0.282446
+epoch: 194/600
+train loss: 0.125442
+mIoU : 54.68
+test loss: 0.282696
+epoch: 195/600
+train loss: 0.128286
+mIoU : 53.3
+test loss: 0.271046
+epoch: 196/600
+train loss: 0.123556
+mIoU : 55.77
+test loss: 0.247613
+epoch: 197/600
+train loss: 0.117856
+mIoU : 57.88
+test loss: 0.25627
+epoch: 198/600
+train loss: 0.116446
+mIoU : 58.35
+test loss: 0.242469
+epoch: 199/600
+train loss: 0.119748
+mIoU : 57.99
+test loss: 0.267776
+epoch: 200/600
+train loss: 0.120106
+mIoU : 56.21
+test loss: 0.27288
+epoch: 201/600
+train loss: 0.121058
+mIoU : 56.71
+test loss: 0.264445
+epoch: 202/600
+train loss: 0.116493
+mIoU : 57.71
+test loss: 0.257358
+epoch: 203/600
+train loss: 0.120615
+mIoU : 58.1
+test loss: 0.24234
+epoch: 204/600
+train loss: 0.114958
+mIoU : 56.01
+test loss: 0.254786
+epoch: 205/600
+train loss: 0.114725
+mIoU : 58.72
+test loss: 0.234281
+epoch: 206/600
+train loss: 0.115059
+mIoU : 59.77
+test loss: 0.220312
+epoch: 207/600
+train loss: 0.111527
+mIoU : 58.4
+test loss: 0.248979
+epoch: 208/600
+train loss: 0.112041
+mIoU : 56.63
+test loss: 0.262892
+epoch: 209/600
+train loss: 0.114898
+mIoU : 54.42
+test loss: 0.248593
+epoch: 210/600
+train loss: 0.111848
+mIoU : 57.16
+test loss: 0.256433
+epoch: 211/600
+train loss: 0.138159
+mIoU : 56.68
+test loss: 0.274229
+epoch: 212/600
+train loss: 0.168789
+mIoU : 52.92
+test loss: 0.298175
+epoch: 213/600
+train loss: 0.162696
+mIoU : 52.24
+test loss: 0.291126
+epoch: 214/600
+train loss: 0.134757
+mIoU : 55.36
+test loss: 0.270174
+epoch: 215/600
+train loss: 0.131467
+mIoU : 55.15
+test loss: 0.251927
+epoch: 216/600
+train loss: 0.148832
+mIoU : 53.36
+test loss: 0.301686
+epoch: 217/600
+train loss: 0.130632
+mIoU : 55.39
+test loss: 0.248643
+epoch: 218/600
+train loss: 0.120447
+mIoU : 56.15
+test loss: 0.270142
+epoch: 219/600
+train loss: 0.117595
+mIoU : 56.26
+test loss: 0.258581
+epoch: 220/600
+train loss: 0.12296
+mIoU : 57.44
+test loss: 0.285865
+epoch: 221/600
+train loss: 0.138165
+mIoU : 52.77
+test loss: 0.27901
+epoch: 222/600
+train loss: 0.157582
+mIoU : 53.0
+test loss: 0.271698
+epoch: 223/600
+train loss: 0.162457
+mIoU : 52.8
+test loss: 0.274717
+epoch: 224/600
+train loss: 0.123741
+mIoU : 56.66
+test loss: 0.263342
+epoch: 225/600
+train loss: 0.135257
+mIoU : 55.05
+test loss: 0.267183
+epoch: 226/600
+train loss: 0.123458
+mIoU : 57.07
+test loss: 0.258205
+epoch: 227/600
+train loss: 0.125794
+mIoU : 56.14
+test loss: 0.259614
+epoch: 228/600
+train loss: 0.127704
+mIoU : 57.2
+test loss: 0.24458
+epoch: 229/600
+train loss: 0.15654
+mIoU : 52.79
+test loss: 0.301079
+epoch: 230/600
+train loss: 0.15487
+mIoU : 53.94
+test loss: 0.281742
+epoch: 231/600
+train loss: 0.125434
+mIoU : 53.4
+test loss: 0.255409
+epoch: 232/600
+train loss: 0.128195
+mIoU : 55.16
+test loss: 0.263643
+epoch: 233/600
+train loss: 0.122373
+mIoU : 56.02
+test loss: 0.244648
+epoch: 234/600
+train loss: 0.120995
+mIoU : 56.45
+test loss: 0.245316
+epoch: 235/600
+train loss: 0.123339
+mIoU : 52.79
+test loss: 0.287377
+epoch: 236/600
+train loss: 0.125663
+mIoU : 54.67
+test loss: 0.287422
+epoch: 237/600
+train loss: 0.120495
+mIoU : 57.59
+test loss: 0.236252
+epoch: 238/600
+train loss: 0.125061
+mIoU : 55.63
+test loss: 0.253783
+epoch: 239/600
+train loss: 0.116422
+mIoU : 56.3
+test loss: 0.26222
+epoch: 240/600
+train loss: 0.127939
+mIoU : 56.2
+test loss: 0.250853
+epoch: 241/600
+train loss: 0.122901
+mIoU : 56.35
+test loss: 0.260745
+epoch: 242/600
+train loss: 0.146745
+mIoU : 50.14
+test loss: 0.332711
+epoch: 243/600
+train loss: 0.15741
+mIoU : 47.75
+test loss: 0.352274
+epoch: 244/600
+train loss: 0.173794
+mIoU : 48.87
+test loss: 0.302563
+epoch: 245/600
+train loss: 0.143517
+mIoU : 53.29
+test loss: 0.270943
+epoch: 246/600
+train loss: 0.122979
+mIoU : 56.08
+test loss: 0.243175
+epoch: 247/600
+train loss: 0.118269
+mIoU : 56.71
+test loss: 0.24265
+epoch: 248/600
+train loss: 0.115914
+mIoU : 54.61
+test loss: 0.253388
+epoch: 249/600
+train loss: 0.113088
+mIoU : 54.51
+test loss: 0.260906
+epoch: 250/600
+train loss: 0.11528
+mIoU : 52.14
+test loss: 0.261436
+epoch: 251/600
+train loss: 0.126816
+mIoU : 53.34
+test loss: 0.263169
+epoch: 252/600
+train loss: 0.119559
+mIoU : 55.87
+test loss: 0.252912
+epoch: 253/600
+train loss: 0.114955
+mIoU : 55.52
+test loss: 0.25401
+epoch: 254/600
+train loss: 0.113532
+mIoU : 54.73
+test loss: 0.268941
+epoch: 255/600
+train loss: 0.108669
+mIoU : 56.16
+test loss: 0.255432
+epoch: 256/600
+train loss: 0.110967
+mIoU : 53.48
+test loss: 0.267221
+epoch: 257/600
+train loss: 0.178735
+mIoU : 55.43
+test loss: 0.247881
+epoch: 258/600
+train loss: 0.13899
+mIoU : 54.97
+test loss: 0.264871
+epoch: 259/600
+train loss: 0.121603
+mIoU : 57.71
+test loss: 0.244708
+epoch: 260/600
+train loss: 0.117686
+mIoU : 58.76
+test loss: 0.244577
+epoch: 261/600
+train loss: 0.114211
+mIoU : 56.11
+test loss: 0.242383
+epoch: 262/600
+train loss: 0.110291
+mIoU : 55.94
+test loss: 0.247609
+epoch: 263/600
+train loss: 0.120528
+mIoU : 53.09
+test loss: 0.308181
+epoch: 264/600
+train loss: 0.122915
+mIoU : 51.49
+test loss: 0.339749
+epoch: 265/600
+train loss: 0.122118
+mIoU : 53.95
+test loss: 0.252027
+epoch: 266/600
+train loss: 0.123488
+mIoU : 56.63
+test loss: 0.27728
+epoch: 267/600
+train loss: 0.116537
+mIoU : 59.63
+test loss: 0.223814
+epoch: 268/600
+train loss: 0.111865
+mIoU : 58.58
+test loss: 0.255901
+epoch: 269/600
+train loss: 0.108943
+mIoU : 56.92
+test loss: 0.258424
+epoch: 270/600
+train loss: 0.105185
+mIoU : 59.4
+test loss: 0.232358
+epoch: 271/600
+train loss: 0.106088
+mIoU : 58.88
+test loss: 0.235828
+epoch: 272/600
+train loss: 0.106171
+mIoU : 56.98
+test loss: 0.238244
+epoch: 273/600
+train loss: 0.103397
+mIoU : 57.5
+test loss: 0.244794
+epoch: 274/600
+train loss: 0.109957
+mIoU : 55.97
+test loss: 0.254768
+epoch: 275/600
+train loss: 0.117626
+mIoU : 56.38
+test loss: 0.240587
+epoch: 276/600
+train loss: 0.115787
+mIoU : 53.13
+test loss: 0.296234
+epoch: 277/600
+train loss: 0.185238
+mIoU : 42.98
+test loss: 0.385126
+epoch: 278/600
+train loss: 0.177719
+mIoU : 48.83
+test loss: 0.340993
+epoch: 279/600
+train loss: 0.14857
+mIoU : 53.14
+test loss: 0.274582
+epoch: 280/600
+train loss: 0.13031
+mIoU : 55.58
+test loss: 0.260073
+epoch: 281/600
+train loss: 0.120057
+mIoU : 54.26
+test loss: 0.261437
+epoch: 282/600
+train loss: 0.113766
+mIoU : 57.52
+test loss: 0.251016
+epoch: 283/600
+train loss: 0.109994
+mIoU : 58.58
+test loss: 0.236765
+epoch: 284/600
+train loss: 0.110973
+mIoU : 56.95
+test loss: 0.248269
+epoch: 285/600
+train loss: 0.111436
+mIoU : 56.23
+test loss: 0.2487
+epoch: 286/600
+train loss: 0.108267
+mIoU : 56.25
+test loss: 0.249006
+epoch: 287/600
+train loss: 0.108285
+mIoU : 56.96
+test loss: 0.26314
+epoch: 288/600
+train loss: 0.114223
+mIoU : 55.33
+test loss: 0.339477
+epoch: 289/600
+train loss: 0.108567
+mIoU : 55.63
+test loss: 0.288378
+epoch: 290/600
+train loss: 0.103366
+mIoU : 56.25
+test loss: 0.253935
+epoch: 291/600
+train loss: 0.103497
+mIoU : 58.33
+test loss: 0.238597
+epoch: 292/600
+train loss: 0.105742
+mIoU : 55.39
+test loss: 0.255514
+epoch: 293/600
+train loss: 0.120335
+mIoU : 51.52
+test loss: 0.278762
+epoch: 294/600
+train loss: 0.116023
+mIoU : 55.38
+test loss: 0.25671
+epoch: 295/600
+train loss: 0.109029
+mIoU : 52.22
+test loss: 0.289091
+epoch: 296/600
+train loss: 0.105636
+mIoU : 56.64
+test loss: 0.246359
+epoch: 297/600
+train loss: 0.109278
+mIoU : 57.89
+test loss: 0.242961
+epoch: 298/600
+train loss: 0.105621
+mIoU : 55.92
+test loss: 0.262619
+epoch: 299/600
+train loss: 0.103531
+mIoU : 57.17
+test loss: 0.254026
+epoch: 300/600
+train loss: 0.102454
+mIoU : 56.91
+test loss: 0.267483
+epoch: 301/600
+train loss: 0.10592
+mIoU : 56.1
+test loss: 0.257962
+epoch: 302/600
+train loss: 0.102698
+mIoU : 54.58
+test loss: 0.270705
+epoch: 303/600
+train loss: 0.106214
+mIoU : 57.59
+test loss: 0.248183
+epoch: 304/600
+train loss: 0.102741
+mIoU : 59.17
+test loss: 0.251495
+epoch: 305/600
+train loss: 0.104376
+mIoU : 57.12
+test loss: 0.260251
+epoch: 306/600
+train loss: 0.102123
+mIoU : 56.42
+test loss: 0.244619
+epoch: 307/600
+train loss: 0.101949
+mIoU : 56.87
+test loss: 0.26548
+epoch: 308/600
+train loss: 0.0995633
+mIoU : 60.0
+test loss: 0.239964
+epoch: 309/600
+train loss: 0.100956
+mIoU : 60.39
+test loss: 0.252187
+########################################
+BEST RESULT
+########################################
+epoch: 310/600
+train loss: 0.100478
+mIoU : 56.82
+test loss: 0.249565
+epoch: 311/600
+train loss: 0.107154
+mIoU : 56.36
+test loss: 0.2433
+epoch: 312/600
+train loss: 0.104527
+mIoU : 59.17
+test loss: 0.250473
+epoch: 313/600
+train loss: 0.105782
+mIoU : 57.09
+test loss: 0.24937
+epoch: 314/600
+train loss: 0.105716
+mIoU : 57.18
+test loss: 0.245292
+epoch: 315/600
+train loss: 0.102354
+mIoU : 52.51
+test loss: 0.272316
+epoch: 316/600
+train loss: 0.100402
+mIoU : 56.84
+test loss: 0.242397
+epoch: 317/600
+train loss: 0.105933
+mIoU : 57.18
+test loss: 0.240201
+epoch: 318/600
+train loss: 0.117113
+mIoU : 58.79
+test loss: 0.248281
+epoch: 319/600
+train loss: 0.115653
+mIoU : 53.39
+test loss: 0.293626
+epoch: 320/600
+train loss: 0.11389
+mIoU : 52.9
+test loss: 0.27113
+epoch: 321/600
+train loss: 0.10528
+mIoU : 57.47
+test loss: 0.246126
+epoch: 322/600
+train loss: 0.0996826
+mIoU : 55.47
+test loss: 0.262194
+epoch: 323/600
+train loss: 0.102286
+mIoU : 56.21
+test loss: 0.256466
+epoch: 324/600
+train loss: 0.109975
+mIoU : 54.15
+test loss: 0.26087
+epoch: 325/600
+train loss: 0.108781
+mIoU : 54.75
+test loss: 0.257868
+epoch: 326/600
+train loss: 0.109038
+mIoU : 54.76
+test loss: 0.252473
+epoch: 327/600
+train loss: 0.110544
+mIoU : 55.69
+test loss: 0.267664
+epoch: 328/600
+train loss: 0.10591
+mIoU : 54.47
+test loss: 0.266524
+epoch: 329/600
+train loss: 0.107394
+mIoU : 57.35
+test loss: 0.264129
+epoch: 330/600
+train loss: 0.102575
+mIoU : 55.95
+test loss: 0.252612
+epoch: 331/600
+train loss: 0.098997
+mIoU : 56.16
+test loss: 0.263755
+epoch: 332/600
+train loss: 0.0985534
+mIoU : 56.5
+test loss: 0.250347
+epoch: 333/600
+train loss: 0.098113
+mIoU : 56.59
+test loss: 0.242373
+epoch: 334/600
+train loss: 0.0967087
+mIoU : 58.0
+test loss: 0.241604
+epoch: 335/600
+train loss: 0.0957401
+mIoU : 56.65
+test loss: 0.248043
+epoch: 336/600
+train loss: 0.0999892
+mIoU : 54.71
+test loss: 0.257283
+epoch: 337/600
+train loss: 0.0966106
+mIoU : 55.43
+test loss: 0.261995
+epoch: 338/600
+train loss: 0.0988075
+mIoU : 56.94
+test loss: 0.253155
+epoch: 339/600
+train loss: 0.098283
+mIoU : 58.35
+test loss: 0.244595
+epoch: 340/600
+train loss: 0.0975265
+mIoU : 56.43
+test loss: 0.264765
+epoch: 341/600
+train loss: 0.096324
+mIoU : 56.57
+test loss: 0.258786
+epoch: 342/600
+train loss: 0.0998919
+mIoU : 57.46
+test loss: 0.240225
+epoch: 343/600
+train loss: 0.0945888
+mIoU : 57.47
+test loss: 0.249971
+epoch: 344/600
+train loss: 0.092028
+mIoU : 57.23
+test loss: 0.249369
+epoch: 345/600
+train loss: 0.0952001
+mIoU : 55.78
+test loss: 0.264368
+epoch: 346/600
+train loss: 0.098942
+mIoU : 53.17
+test loss: 0.353423
+epoch: 347/600
+train loss: 0.0983817
+mIoU : 56.75
+test loss: 0.24044
+epoch: 348/600
+train loss: 0.0977825
+mIoU : 56.9
+test loss: 0.267969
+epoch: 349/600
+train loss: 0.0955235
+mIoU : 59.95
+test loss: 0.238085
+epoch: 350/600
+train loss: 0.141054
+mIoU : 53.13
+test loss: 0.289601
+epoch: 351/600
+train loss: 0.131166
+mIoU : 53.37
+test loss: 0.281557
+epoch: 352/600
+train loss: 0.266558
+mIoU : 44.8
+test loss: 0.385638
+epoch: 353/600
+train loss: 0.182916
+mIoU : 53.25
+test loss: 0.272977
+epoch: 354/600
+train loss: 0.130558
+mIoU : 54.57
+test loss: 0.264629
+epoch: 355/600
+train loss: 0.143268
+mIoU : 54.02
+test loss: 0.278986
+epoch: 356/600
+train loss: 0.149371
+mIoU : 47.5
+test loss: 0.364372
+epoch: 357/600
+train loss: 0.142915
+mIoU : 52.94
+test loss: 0.289596
+epoch: 358/600
+train loss: 0.118165
+mIoU : 55.67
+test loss: 0.250659
+epoch: 359/600
+train loss: 0.113487
+mIoU : 55.37
+test loss: 0.252915
+epoch: 360/600
+train loss: 0.110183
+mIoU : 55.71
+test loss: 0.263704
+epoch: 361/600
+train loss: 0.103515
+mIoU : 56.22
+test loss: 0.244878
+epoch: 362/600
+train loss: 0.104879
+mIoU : 57.5
+test loss: 0.245047
+epoch: 363/600
+train loss: 0.110789
+mIoU : 56.89
+test loss: 0.256765
+epoch: 364/600
+train loss: 0.114329
+mIoU : 52.64
+test loss: 0.303141
+epoch: 365/600
+train loss: 0.15697
+mIoU : 54.37
+test loss: 0.272613
+epoch: 366/600
+train loss: 0.125317
+mIoU : 55.49
+test loss: 0.262079
+epoch: 367/600
+train loss: 0.133506
+mIoU : 55.61
+test loss: 0.293829
+epoch: 368/600
+train loss: 0.197572
+mIoU : 52.69
+test loss: 0.271069
+epoch: 369/600
+train loss: 0.142961
+mIoU : 55.98
+test loss: 0.247102
+epoch: 370/600
+train loss: 0.119097
+mIoU : 55.41
+test loss: 0.251008
+epoch: 371/600
+train loss: 0.110427
+mIoU : 60.81
+test loss: 0.240141
+########################################
+BEST RESULT
+########################################
+epoch: 372/600
+train loss: 0.108928
+mIoU : 57.09
+test loss: 0.252294
+epoch: 373/600
+train loss: 0.105638
+mIoU : 55.69
+test loss: 0.262186
+epoch: 374/600
+train loss: 0.122093
+mIoU : 55.92
+test loss: 0.255967
+epoch: 375/600
+train loss: 0.119424
+mIoU : 54.09
+test loss: 0.263963
+epoch: 376/600
+train loss: 0.106503
+mIoU : 57.73
+test loss: 0.25247
+epoch: 377/600
+train loss: 0.148881
+mIoU : 53.68
+test loss: 0.268533
+epoch: 378/600
+train loss: 0.126793
+mIoU : 54.41
+test loss: 0.292683
+epoch: 379/600
+train loss: 0.128175
+mIoU : 55.55
+test loss: 0.266641
+epoch: 380/600
+train loss: 0.11122
+mIoU : 55.84
+test loss: 0.265019
+epoch: 381/600
+train loss: 0.107145
+mIoU : 56.57
+test loss: 0.257111
+epoch: 382/600
+train loss: 0.105087
+mIoU : 55.22
+test loss: 0.266048
+epoch: 383/600
+train loss: 0.105125
+mIoU : 54.38
+test loss: 0.290267
+epoch: 384/600
+train loss: 0.114159
+mIoU : 57.15
+test loss: 0.247974
+epoch: 385/600
+train loss: 0.101079
+mIoU : 55.3
+test loss: 0.265597
+epoch: 386/600
+train loss: 0.107174
+mIoU : 53.43
+test loss: 0.275877
+epoch: 387/600
+train loss: 0.114869
+mIoU : 55.57
+test loss: 0.261856
+epoch: 388/600
+train loss: 0.103891
+mIoU : 55.4
+test loss: 0.261782
+epoch: 389/600
+train loss: 0.0998223
+mIoU : 57.33
+test loss: 0.242851
+epoch: 390/600
+train loss: 0.100692
+mIoU : 56.07
+test loss: 0.266651
+epoch: 391/600
+train loss: 0.0984847
+mIoU : 55.89
+test loss: 0.260053
+epoch: 392/600
+train loss: 0.0973412
+mIoU : 56.37
+test loss: 0.249461
+epoch: 393/600
+train loss: 0.099125
+mIoU : 55.77
+test loss: 0.251939
+epoch: 394/600
+train loss: 0.0997021
+mIoU : 55.99
+test loss: 0.268396
+epoch: 395/600
+train loss: 0.0984896
+mIoU : 55.33
+test loss: 0.258863
+epoch: 396/600
+train loss: 0.0949242
+mIoU : 57.18
+test loss: 0.258366
+epoch: 397/600
+train loss: 0.100666
+mIoU : 56.03
+test loss: 0.264734
+epoch: 398/600
+train loss: 0.0987407
+mIoU : 58.2
+test loss: 0.252119
+epoch: 399/600
+train loss: 0.097354
+mIoU : 56.36
+test loss: 0.273368
+epoch: 400/600
+train loss: 0.0980066
+mIoU : 57.29
+test loss: 0.257857
+epoch: 401/600
+train loss: 0.0934034
+mIoU : 56.96
+test loss: 0.25999
+epoch: 402/600
+train loss: 0.0954943
+mIoU : 57.58
+test loss: 0.259638
+epoch: 403/600
+train loss: 0.0933728
+mIoU : 57.56
+test loss: 0.250887
+epoch: 404/600
+train loss: 0.118347
+mIoU : 54.09
+test loss: 0.269275
+epoch: 405/600
+train loss: 0.103536
+mIoU : 55.86
+test loss: 0.263151
+epoch: 406/600
+train loss: 0.102815
+mIoU : 55.43
+test loss: 0.29936
+epoch: 407/600
+train loss: 0.0984387
+mIoU : 56.64
+test loss: 0.259641
+epoch: 408/600
+train loss: 0.0946204
+mIoU : 57.45
+test loss: 0.249529
+epoch: 409/600
+train loss: 0.0941295
+mIoU : 57.64
+test loss: 0.247239
+epoch: 410/600
+train loss: 0.100814
+mIoU : 57.17
+test loss: 0.261193
+epoch: 411/600
+train loss: 0.0966465
+mIoU : 57.9
+test loss: 0.260914
+epoch: 412/600
+train loss: 0.0931942
+mIoU : 57.37
+test loss: 0.25827
+epoch: 413/600
+train loss: 0.0920152
+mIoU : 58.22
+test loss: 0.242048
+epoch: 414/600
+train loss: 0.0948525
+mIoU : 57.92
+test loss: 0.247597
+epoch: 415/600
+train loss: 0.0931372
+mIoU : 57.64
+test loss: 0.24794
+epoch: 416/600
+train loss: 0.0910224
+mIoU : 58.32
+test loss: 0.246874
+epoch: 417/600
+train loss: 0.0897965
+mIoU : 56.71
+test loss: 0.270314
+epoch: 418/600
+train loss: 0.0967843
+mIoU : 57.19
+test loss: 0.267288
+epoch: 419/600
+train loss: 0.0948661
+mIoU : 54.87
+test loss: 0.272478
+epoch: 420/600
+train loss: 0.0931169
+mIoU : 57.18
+test loss: 0.254577
+epoch: 421/600
+train loss: 0.0927185
+mIoU : 58.08
+test loss: 0.262298
+epoch: 422/600
+train loss: 0.0916785
+mIoU : 55.87
+test loss: 0.260058
+epoch: 423/600
+train loss: 0.0939241
+mIoU : 56.98
+test loss: 0.252841
+epoch: 424/600
+train loss: 0.0923084
+mIoU : 61.42
+test loss: 0.242084
+########################################
+BEST RESULT
+########################################
+epoch: 425/600
+train loss: 0.0888396
+mIoU : 56.95
+test loss: 0.273295
+epoch: 426/600
+train loss: 0.0904303
+mIoU : 57.12
+test loss: 0.262639
+epoch: 427/600
+train loss: 0.091154
+mIoU : 57.33
+test loss: 0.246074
+epoch: 428/600
+train loss: 0.087757
+mIoU : 58.3
+test loss: 0.250321
+epoch: 429/600
+train loss: 0.0881633
+mIoU : 57.85
+test loss: 0.253913
+epoch: 430/600
+train loss: 0.0877132
+mIoU : 58.59
+test loss: 0.244053
+epoch: 431/600
+train loss: 0.0907863
+mIoU : 58.34
+test loss: 0.258455
+epoch: 432/600
+train loss: 0.0921409
+mIoU : 58.0
+test loss: 0.251292
+epoch: 433/600
+train loss: 0.0894202
+mIoU : 57.64
+test loss: 0.261789
+epoch: 434/600
+train loss: 0.0876437
+mIoU : 56.77
+test loss: 0.256612
+epoch: 435/600
+train loss: 0.0905692
+mIoU : 55.79
+test loss: 0.263779
+epoch: 436/600
+train loss: 0.0912741
+mIoU : 55.88
+test loss: 0.262
+epoch: 437/600
+train loss: 0.0903889
+mIoU : 57.1
+test loss: 0.265839
+epoch: 438/600
+train loss: 0.0873366
+mIoU : 57.61
+test loss: 0.256686
+epoch: 439/600
+train loss: 0.0881205
+mIoU : 57.49
+test loss: 0.254844
+epoch: 440/600
+train loss: 0.0861341
+mIoU : 58.1
+test loss: 0.242768
+epoch: 441/600
+train loss: 0.0885706
+mIoU : 56.71
+test loss: 0.265156
+epoch: 442/600
+train loss: 0.0870836
+mIoU : 56.74
+test loss: 0.259526
+epoch: 443/600
+train loss: 0.0883688
+mIoU : 55.47
+test loss: 0.257605
+epoch: 444/600
+train loss: 0.0901719
+mIoU : 56.69
+test loss: 0.261907
+epoch: 445/600
+train loss: 0.0917357
+mIoU : 50.68
+test loss: 0.327598
+epoch: 446/600
+train loss: 0.112745
+mIoU : 57.57
+test loss: 0.270498
+epoch: 447/600
+train loss: 0.09579
+mIoU : 56.58
+test loss: 0.265824
+epoch: 448/600
+train loss: 0.0916337
+mIoU : 56.36
+test loss: 0.281536
+epoch: 449/600
+train loss: 0.0932912
+mIoU : 57.63
+test loss: 0.254529
+epoch: 450/600
+train loss: 0.0884031
+mIoU : 56.9
+test loss: 0.254245
+epoch: 451/600
+train loss: 0.0883543
+mIoU : 57.46
+test loss: 0.255077
+epoch: 452/600
+train loss: 0.0875481
+mIoU : 57.5
+test loss: 0.264467
+epoch: 453/600
+train loss: 0.0867225
+mIoU : 57.77
+test loss: 0.256057
+epoch: 454/600
+train loss: 0.0888233
+mIoU : 57.65
+test loss: 0.256246
+epoch: 455/600
+train loss: 0.0880695
+mIoU : 58.63
+test loss: 0.253724
+epoch: 456/600
+train loss: 0.0859455
+mIoU : 56.97
+test loss: 0.274848
+epoch: 457/600
+train loss: 0.0898832
+mIoU : 56.88
+test loss: 0.259196
+epoch: 458/600
+train loss: 0.092511
+mIoU : 57.19
+test loss: 0.258042
+epoch: 459/600
+train loss: 0.0910862
+mIoU : 57.37
+test loss: 0.246964
+epoch: 460/600
+train loss: 0.0868884
+mIoU : 58.18
+test loss: 0.251945
+epoch: 461/600
+train loss: 0.0872053
+mIoU : 58.11
+test loss: 0.245133
+epoch: 462/600
+train loss: 0.086602
+mIoU : 56.98
+test loss: 0.264153
+epoch: 463/600
+train loss: 0.0854406
+mIoU : 59.04
+test loss: 0.253073
+epoch: 464/600
+train loss: 0.0849659
+mIoU : 58.82
+test loss: 0.253921
+epoch: 465/600
+train loss: 0.0846257
+mIoU : 57.06
+test loss: 0.270882
+epoch: 466/600
+train loss: 0.0830418
+mIoU : 57.34
+test loss: 0.262475
+epoch: 467/600
+train loss: 0.0852498
+mIoU : 55.97
+test loss: 0.273234
+epoch: 468/600
+train loss: 0.0867115
+mIoU : 57.98
+test loss: 0.276034
+epoch: 469/600
+train loss: 0.084615
+mIoU : 57.23
+test loss: 0.258919
+epoch: 470/600
+train loss: 0.0851709
+mIoU : 57.76
+test loss: 0.256614
+epoch: 471/600
+train loss: 0.084798
+mIoU : 56.54
+test loss: 0.263292
+epoch: 472/600
+train loss: 0.0824901
+mIoU : 57.3
+test loss: 0.269874
+epoch: 473/600
+train loss: 0.0837337
+mIoU : 57.3
+test loss: 0.262974
+epoch: 474/600
+train loss: 0.0855415
+mIoU : 56.85
+test loss: 0.253376
+epoch: 475/600
+train loss: 0.0828493
+mIoU : 57.3
+test loss: 0.261056
+epoch: 476/600
+train loss: 0.0827151
+mIoU : 58.39
+test loss: 0.252493
+epoch: 477/600
+train loss: 0.0844844
+mIoU : 58.15
+test loss: 0.254197
+epoch: 478/600
+train loss: 0.0838059
+mIoU : 58.62
+test loss: 0.267061
+epoch: 479/600
+train loss: 0.0832863
+mIoU : 57.56
+test loss: 0.250728
+epoch: 480/600
+train loss: 0.0808054
+mIoU : 59.37
+test loss: 0.257573
+epoch: 481/600
+train loss: 0.0838623
+mIoU : 58.61
+test loss: 0.257271
+epoch: 482/600
+train loss: 0.0836053
+mIoU : 57.7
+test loss: 0.255569
+epoch: 483/600
+train loss: 0.0822096
+mIoU : 61.96
+test loss: 0.239581
+########################################
+BEST RESULT
+########################################
+epoch: 484/600
+train loss: 0.0833187
+mIoU : 57.48
+test loss: 0.250462
+epoch: 485/600
+train loss: 0.0837979
+mIoU : 57.63
+test loss: 0.254926
+epoch: 486/600
+train loss: 0.0824934
+mIoU : 58.51
+test loss: 0.242073
+epoch: 487/600
+train loss: 0.0808402
+mIoU : 58.86
+test loss: 0.24777
+epoch: 488/600
+train loss: 0.0817024
+mIoU : 57.79
+test loss: 0.257868
+epoch: 489/600
+train loss: 0.0809949
+mIoU : 59.01
+test loss: 0.249737
+epoch: 490/600
+train loss: 0.0798246
+mIoU : 58.56
+test loss: 0.260005
+epoch: 491/600
+train loss: 0.0809987
+mIoU : 57.89
+test loss: 0.261798
+epoch: 492/600
+train loss: 0.0803104
+mIoU : 58.23
+test loss: 0.260272
+epoch: 493/600
+train loss: 0.0829351
+mIoU : 57.67
+test loss: 0.271674
+epoch: 494/600
+train loss: 0.0827057
+mIoU : 57.76
+test loss: 0.273552
+epoch: 495/600
+train loss: 0.0831227
+mIoU : 58.59
+test loss: 0.260289
+epoch: 496/600
+train loss: 0.082702
+mIoU : 58.05
+test loss: 0.267652
+epoch: 497/600
+train loss: 0.0808946
+mIoU : 58.44
+test loss: 0.260116
+epoch: 498/600
+train loss: 0.0801324
+mIoU : 58.05
+test loss: 0.272525
+epoch: 499/600
+train loss: 0.0788332
+mIoU : 58.74
+test loss: 0.252608
+epoch: 500/600
+train loss: 0.0801943
+mIoU : 56.13
+test loss: 0.280449
+epoch: 501/600
+train loss: 0.0795738
+mIoU : 56.49
+test loss: 0.275483
+epoch: 502/600
+train loss: 0.0795179
+mIoU : 57.56
+test loss: 0.268219
+epoch: 503/600
+train loss: 0.0788273
+mIoU : 57.19
+test loss: 0.285245
+epoch: 504/600
+train loss: 0.080875
+mIoU : 56.81
+test loss: 0.282527
+epoch: 505/600
+train loss: 0.0771588
+mIoU : 56.42
+test loss: 0.27438
+epoch: 506/600
+train loss: 0.077718
+mIoU : 57.24
+test loss: 0.272427
+epoch: 507/600
+train loss: 0.0798034
+mIoU : 57.75
+test loss: 0.273332
+epoch: 508/600
+train loss: 0.0808999
+mIoU : 57.32
+test loss: 0.277516
+epoch: 509/600
+train loss: 0.0786064
+mIoU : 56.71
+test loss: 0.292496
+epoch: 510/600
+train loss: 0.079365
+mIoU : 57.91
+test loss: 0.270341
+epoch: 511/600
+train loss: 0.080144
+mIoU : 54.63
+test loss: 0.277075
+epoch: 512/600
+train loss: 0.0848387
+mIoU : 57.46
+test loss: 0.276307
+epoch: 513/600
+train loss: 0.0801628
+mIoU : 57.38
+test loss: 0.276372
+epoch: 514/600
+train loss: 0.0819464
+mIoU : 56.26
+test loss: 0.285362
+epoch: 515/600
+train loss: 0.089278
+mIoU : 57.69
+test loss: 0.264374
+epoch: 516/600
+train loss: 0.0798773
+mIoU : 57.49
+test loss: 0.272607
+epoch: 517/600
+train loss: 0.0805389
+mIoU : 56.59
+test loss: 0.275176
+epoch: 518/600
+train loss: 0.0795476
+mIoU : 56.65
+test loss: 0.280115
+epoch: 519/600
+train loss: 0.0820149
+mIoU : 56.59
+test loss: 0.282188
+epoch: 520/600
+train loss: 0.0798777
+mIoU : 57.09
+test loss: 0.280797
+epoch: 521/600
+train loss: 0.0777265
+mIoU : 57.24
+test loss: 0.285423
+epoch: 522/600
+train loss: 0.0783697
+mIoU : 56.84
+test loss: 0.296448
+epoch: 523/600
+train loss: 0.0792078
+mIoU : 57.68
+test loss: 0.275758
+epoch: 524/600
+train loss: 0.0779577
+mIoU : 56.55
+test loss: 0.264146
+epoch: 525/600
+train loss: 0.0785985
+mIoU : 56.53
+test loss: 0.277751
+epoch: 526/600
+train loss: 0.0768745
+mIoU : 57.86
+test loss: 0.265363
+epoch: 527/600
+train loss: 0.0769707
+mIoU : 57.26
+test loss: 0.266902
+epoch: 528/600
+train loss: 0.0790045
+mIoU : 57.32
+test loss: 0.2603
+epoch: 529/600
+train loss: 0.076818
+mIoU : 56.8
+test loss: 0.271957
+epoch: 530/600
+train loss: 0.0907918
+mIoU : 54.43
+test loss: 0.286217
+epoch: 531/600
+train loss: 0.0833693
+mIoU : 54.41
+test loss: 0.268279
+epoch: 532/600
+train loss: 0.0799822
+mIoU : 55.49
+test loss: 0.270798
+epoch: 533/600
+mIoU : 62.31
+test loss: 0.235427
+########################################
+BEST RESULT
+########################################
+test loss: 0.281634
+epoch: 534/600
+train loss: 0.0780891
+mIoU : 57.56
+test loss: 0.268714
+epoch: 535/600
+train loss: 0.0788919
+mIoU : 57.03
+test loss: 0.268626
+epoch: 536/600
+train loss: 0.0787199
+mIoU : 56.73
+test loss: 0.272776
+epoch: 537/600
+train loss: 0.0772229
+mIoU : 56.54
+test loss: 0.272856
+epoch: 538/600
+train loss: 0.0766091
+mIoU : 57.38
+test loss: 0.262873
+epoch: 539/600
+train loss: 0.0774137
+mIoU : 56.42
+test loss: 0.283251
+epoch: 540/600
+train loss: 0.0763071
+mIoU : 56.51
+test loss: 0.279069
+epoch: 541/600
+train loss: 0.0787113
+mIoU : 57.41
+test loss: 0.25749
+epoch: 542/600
+train loss: 0.0768687
+mIoU : 58.08
+test loss: 0.262417
+epoch: 543/600
+train loss: 0.0762546
+mIoU : 57.48
+test loss: 0.269589
+epoch: 544/600
+train loss: 0.07462
+mIoU : 57.34
+test loss: 0.264433
+epoch: 545/600
+train loss: 0.074922
+mIoU : 56.96
+test loss: 0.274076
+epoch: 546/600
+train loss: 0.0749706
+mIoU : 57.39
+test loss: 0.271771
+epoch: 547/600
+train loss: 0.0753809
+mIoU : 57.17
+test loss: 0.262619
+epoch: 548/600
+train loss: 0.075706
+mIoU : 57.13
+test loss: 0.26904
+epoch: 549/600
+train loss: 0.076327
+mIoU : 57.18
+test loss: 0.280557
+epoch: 550/600
+train loss: 0.0748825
+mIoU : 56.81
+test loss: 0.278583
+epoch: 551/600
+train loss: 0.0752724
+mIoU : 56.96
+test loss: 0.274311
+epoch: 552/600
+train loss: 0.0751652
+mIoU : 57.27
+test loss: 0.273846
+epoch: 553/600
+train loss: 0.075716
+mIoU : 56.75
+test loss: 0.282345
+epoch: 554/600
+train loss: 0.0743688
+mIoU : 62.55
+test loss: 0.231934
+########################################
+BEST RESULT
+########################################
+epoch: 555/600
+train loss: 0.0749184
+mIoU : 57.97
+test loss: 0.268069
+epoch: 556/600
+train loss: 0.0745359
+mIoU : 57.44
+test loss: 0.27011
+epoch: 557/600
+train loss: 0.0739081
+mIoU : 57.53
+test loss: 0.269876
+epoch: 558/600
+train loss: 0.0747882
+mIoU : 57.26
+test loss: 0.280711
+epoch: 559/600
+train loss: 0.0750359
+mIoU : 56.95
+test loss: 0.282472
+epoch: 560/600
+train loss: 0.0747889
+mIoU : 57.87
+test loss: 0.275826
+epoch: 561/600
+train loss: 0.0747486
+mIoU : 57.18
+test loss: 0.273566
+epoch: 562/600
+train loss: 0.0736549
+mIoU : 56.78
+test loss: 0.27357
+epoch: 563/600
+train loss: 0.0738358
+mIoU : 57.35
+test loss: 0.283275
+epoch: 564/600
+train loss: 0.0736201
+mIoU : 57.18
+test loss: 0.277535
+epoch: 565/600
+train loss: 0.0743212
+mIoU : 57.66
+test loss: 0.269085
+epoch: 566/600
+train loss: 0.0734463
+mIoU : 56.79
+test loss: 0.276284
+epoch: 567/600
+train loss: 0.0731149
+mIoU : 57.29
+test loss: 0.279244
+epoch: 568/600
+train loss: 0.0722305
+mIoU : 57.08
+test loss: 0.274601
+epoch: 569/600
+train loss: 0.07419
+mIoU : 57.52
+test loss: 0.268251
+epoch: 570/600
+train loss: 0.0744395
+mIoU : 57.02
+test loss: 0.276854
+epoch: 571/600
+train loss: 0.0748205
+mIoU : 58.35
+test loss: 0.268099
+epoch: 572/600
+train loss: 0.0723998
+mIoU : 57.33
+test loss: 0.275553
+epoch: 573/600
+train loss: 0.0728455
+mIoU : 57.22
+test loss: 0.276055
+epoch: 574/600
+train loss: 0.0721863
+mIoU : 57.67
+test loss: 0.278707
+epoch: 575/600
+train loss: 0.072101
+mIoU : 57.95
+test loss: 0.269542
+epoch: 576/600
+train loss: 0.0718634
+mIoU : 57.53
+test loss: 0.267667
+epoch: 577/600
+train loss: 0.0731437
+mIoU : 57.06
+test loss: 0.274482
+epoch: 578/600
+train loss: 0.0725463
+mIoU : 57.7
+test loss: 0.274591
+epoch: 579/600
+train loss: 0.0733771
+mIoU : 57.44
+test loss: 0.278637
+epoch: 580/600
+train loss: 0.071709
+mIoU : 57.77
+test loss: 0.27719
+epoch: 581/600
+train loss: 0.0719593
+mIoU : 57.5
+test loss: 0.275222
+epoch: 582/600
+train loss: 0.0718066
+mIoU : 57.81
+test loss: 0.274001
+epoch: 583/600
+train loss: 0.0709768
+mIoU : 57.72
+test loss: 0.276472
+epoch: 584/600
+train loss: 0.0721329
+mIoU : 57.54
+test loss: 0.279485
+epoch: 585/600
+train loss: 0.0713126
+mIoU : 57.73
+test loss: 0.276409
+epoch: 586/600
+train loss: 0.0722667
+mIoU : 57.38
+test loss: 0.272052
+epoch: 587/600
+train loss: 0.0709203
+mIoU : 57.29
+test loss: 0.283203
+epoch: 588/600
+train loss: 0.0711577
+mIoU : 57.8
+test loss: 0.274756
+epoch: 589/600
+train loss: 0.0704537
+mIoU : 57.56
+test loss: 0.274208
+epoch: 590/600
+train loss: 0.072563
+mIoU : 57.52
+test loss: 0.280249
+epoch: 591/600
+train loss: 0.0706465
+mIoU : 57.78
+test loss: 0.282578
+epoch: 592/600
+train loss: 0.0703443
+mIoU : 57.63
+test loss: 0.275398
+epoch: 593/600
+train loss: 0.0711709
+mIoU : 57.73
+test loss: 0.277707
+epoch: 594/600
+train loss: 0.0713952
+mIoU : 62.73
+test loss: 0.229565
+########################################
+BEST RESULT
+########################################
+epoch: 595/600
+train loss: 0.0702297
+mIoU : 57.84
+test loss: 0.273825
+epoch: 596/600
+train loss: 0.0695439
+mIoU : 57.88
+test loss: 0.272118
+epoch: 597/600
+train loss: 0.0714079
+mIoU : 57.38
+test loss: 0.278411
+epoch: 598/600
+train loss: 0.0703884
+mIoU : 57.5
+test loss: 0.276298
+epoch: 599/600
+train loss: 0.0710798
+mIoU : 57.42
+test loss: 0.280694
+epoch: 600/600
+train loss: 0.0713002
+mIoU : 57.79
+test loss: 0.274578
