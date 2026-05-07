@@ -1,6 +1,6 @@
 # CSFNet-pytorch
 
-This is the official pytorch implementation of ["Cosine Similarity Fusion Network for Real-Time RGB-X Semantic Segmentation of Driving Scenes"] (https://www.sciencedirect.com/science/article/abs/pii/S0952197626006433).
+This is the official pytorch implementation of ["Cosine Similarity Fusion Network for Real-Time RGB-X Semantic Segmentation of Driving Scenes"](https://www.sciencedirect.com/science/article/abs/pii/S0952197626006433).
 
 ![Network.png](https://github.com/Danial-Qashqai/CSFNet/blob/main/figures/Network_main.png)
 *Overview of our proposed Cosine Similarity Fusion Network (CSFNet) for real-time RGB-X semantic segmentation.*
