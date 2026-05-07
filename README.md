@@ -223,6 +223,18 @@ python eval.py \
     --weight_path "./best_CSFNet_2_FMB.pth"
 ```
 
+## Publication
+If you find this repo useful, please consider referencing the following paper:
+```
+@article{QASHQAI2026114362,
+title = {Cosine similarity fusion network for real-time Red-Green-Blue and X-modality semantic segmentation of driving scenes},
+journal = {Engineering Applications of Artificial Intelligence},
+year = {2026},
+doi = {https://doi.org/10.1016/j.engappai.2026.114362},
+url = {https://www.sciencedirect.com/science/article/pii/S0952197626006433},
+author = {Danial Qashqai and Emad Mousavian and Shahriar B. Shokouhi and Sattar Mirzakuchaki}
+}
+```
 
 ## Contact
 
